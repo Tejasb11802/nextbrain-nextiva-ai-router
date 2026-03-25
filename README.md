@@ -1,6 +1,6 @@
 # 🧠 NextBrain — Nextiva Internal AI Router
 
-> A lightweight **agentic AI orchestration system** that automatically routes employee queries to the right internal Nextiva AI tool — and tracks the impact with a live dashboard.
+> A lightweight **agentic AI orchestration system** that automatically routes employee queries to the right internal Nextiva AI tool, and tracks the impact with a live dashboard.
 
 Built as a portfolio project targeting Nextiva's **AI Engineer Intern** role. Demonstrates real-world skills in LangGraph agentic workflows, LLM routing, and operational AI tooling.
 
@@ -129,7 +129,7 @@ Dashboard shows: total queries, hours saved, tool breakdown, daily volume.
 
 ## 💡 Why This Matters
 
-Nextiva has 6 powerful internal AI tools. Employees still manually decide which one to use — creating friction and reducing adoption. NextBrain eliminates that overhead and creates an audit trail of AI ROI.
+Nextiva has 6 powerful internal AI tools. Employees still manually decide which one to use, creating friction and reducing adoption. NextBrain eliminates that overhead and creates an audit trail of AI ROI.
 
 *Built by **Tejas Bhanushali** — MS Data Science, Arizona State University*
 *Targeting: AI Engineer Intern @ Nextiva, Scottsdale AZ*
