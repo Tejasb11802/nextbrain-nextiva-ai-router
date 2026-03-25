@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-03-24T18:23:20.216032",
+    "query": "Search our internal docs for the onboarding procedure",
+    "tool": "NED",
+    "confidence": 0.7,
+    "time_saved_minutes": 20,
+    "used_llm": false
+  },
+  {
+    "timestamp": "2026-03-24T18:23:25.876441",
+    "query": "What objections came up most in sales calls this month?",
+    "tool": "MARA",
+    "confidence": 0.5909090909090909,
+    "time_saved_minutes": 60,
+    "used_llm": false
+  },
+  {
+    "timestamp": "2026-03-24T18:23:32.925222",
+    "query": "Generate an RFP response for the Acme Corp bid",
+    "tool": "ROSIE",
+    "confidence": 0.6875,
+    "time_saved_minutes": 240,
+    "used_llm": false
+  },
+  {
+    "timestamp": "2026-03-24T18:23:40.655492",
+    "query": "Compare GPT-4 vs Claude for summarization tasks",
+    "tool": "GPTiva",
+    "confidence": 0.65,
+    "time_saved_minutes": 15,
+    "used_llm": false
+  },
+  {
+    "timestamp": "2026-03-24T18:23:48.360975",
+    "query": "Show me Q3 win rate trends by region",
+    "tool": "CARL",
+    "confidence": 0.5833333333333334,
+    "time_saved_minutes": 50,
+    "used_llm": false
+  }
+]
